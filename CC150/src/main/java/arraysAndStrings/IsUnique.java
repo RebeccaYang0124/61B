@@ -9,6 +9,9 @@ public class IsUnique {
 
     public static void main(String[] args){
 
+
+
+        
     }
 
     public Boolean isUnique1(String input) {
